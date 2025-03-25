@@ -51,3 +51,6 @@ while carryOn == True:
         carryOn = False
         print("\nHave a good day")
     print("-------------------------------------------------------------------------")
+
+
+    print("Bye")
